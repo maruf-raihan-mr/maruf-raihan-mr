@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @maruf-raihan-mr
-https://maruf-raihan-mr.github.io/mrraihan/
+- 👋 Hi, I’m Maruf Raihan
+- https://maruf-raihan-mr.github.io/mrraihan/
